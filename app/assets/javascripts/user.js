@@ -1,0 +1,26 @@
+var user = [
+{
+  "login": "pbyrne222",
+  "id": 7475561,
+  "avatar_url": "https://avatars.githubusercontent.com/u/7475561?v=2",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pbyrne222",
+  "html_url": "https://github.com/pbyrne222",
+  "followers_url": "https://api.github.com/users/pbyrne222/followers",
+  "following_url": "https://api.github.com/users/pbyrne222/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pbyrne222/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pbyrne222/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pbyrne222/subscriptions",
+  "organizations_url": "https://api.github.com/users/pbyrne222/orgs",
+  "repos_url": "https://api.github.com/users/pbyrne222/repos",
+  "events_url": "https://api.github.com/users/pbyrne222/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pbyrne222/received_events",
+  "type": "User",
+  "site_admin": false,
+  "public_repos": 12,
+  "public_gists": 2,
+  "followers": 6,
+  "following": 27,
+  "created_at": "2014-05-03T17:55:44Z",
+  "updated_at": "2014-10-30T12:20:49Z"
+}
